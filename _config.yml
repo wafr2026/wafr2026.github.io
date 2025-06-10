@@ -1,4 +1,15 @@
-theme: jekyll-theme-cayman
-title: The 17th International Workshop on the Algorithmic Foundations of Robotics
-description: Description here
 author: wafr2026
+title: WAFR 2026
+email: wafr2026@gmail.com
+description: Website of the 17th International Workshop on the Algorithmic Foundations of Robotics
+github_username:  wafr2026
+
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - program.md
+  - keynotes.md
+  - travel.md
+  - committee.md
