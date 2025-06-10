@@ -1,5 +1,5 @@
 ---
-title: Title in index
+title: blank
 ---
 
 <!-- -->
