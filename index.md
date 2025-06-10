@@ -15,5 +15,5 @@ The 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR
 - Paper submission deadline: January 15, 2026
 - Notification of acceptance: March 15, 2026
 - Preliminary paper deadline: May 15, 2026
-- WAFR attendance: June 15-17, 2026
+- Conference attendance: June 15-17, 2026
 - Final papers for book: July 15, 2026

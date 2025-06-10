@@ -5,8 +5,6 @@ email: wafr2026@gmail.com
 github_username:  wafr2026
 
 theme: minima
-plugins:
-  - jekyll-feed
 
 header_pages:
   - program.md
