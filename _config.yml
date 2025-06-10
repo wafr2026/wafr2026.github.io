@@ -1,7 +1,4 @@
 title: WAFR 2026
-email: wafr2026@gmail.com
-description: 
-# github_username:  wafr2026
 
 theme: minima
 
@@ -10,3 +7,4 @@ header_pages:
   - keynotes.md
   - travel.md
   - committee.md
+  - contacts.md
