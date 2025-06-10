@@ -4,7 +4,7 @@ email: wafr2026@gmail.com
 description: Website of the 17th International Workshop on the Algorithmic Foundations of Robotics
 github_username:  wafr2026
 
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
