@@ -1,5 +1,5 @@
 ---
-title: WAFR 2026
+title: The 17th International Workshop on the Algorithmic Foundations of Robotics
 ---
 
 <p align="center">
