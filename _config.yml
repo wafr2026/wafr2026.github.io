@@ -4,7 +4,8 @@ description: ""
 theme: minima
 
 header_pages:
+  - info.md
   - program.md
-  - keynotes.md
-  - travel.md
+  - venue.md
+  - registration.md
   - committee.md
