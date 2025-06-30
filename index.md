@@ -5,7 +5,7 @@ title: 17th International Workshop on the Algorithmic Foundations of Robotics
 # 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR)
 
 <p align="center">
-<img src="figures/oulu.jpg" alt="drawing"/>
+<img src="figures/statue.jpg" alt="drawing"/>
 </p>
 
 The 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR) will be held on June 15 to June 17, 2026 in Oulu, Finland.
