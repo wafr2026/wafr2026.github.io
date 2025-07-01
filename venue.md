@@ -32,10 +32,10 @@ Alternatively, Oulu can be reached from Helsinki via train.
 
 ## Accommodation
 
-Accommodations are available both at the conference venue [Ravintola Nallikari](http://ravintolanallikari.fi/) and in the city center.
-The following are some of the hotels in the city center:
-- Hotel 1
-- Hotel 2
+Accommodations are available right by the conference venue at the beach (see the options avaliable at [this link](https://nallikari.fi/en/accommodation/)).
+Alternatively, we suggest the following hotels in the city center:
+- [Radisson Blu](https://www.radissonhotels.com/en-us/hotels/radisson-blu-oulu)
+- [Scandic](https://www.scandichotels.com/en/hotels/scandic-oulu-city)
 
 ## Travel grants for students
 

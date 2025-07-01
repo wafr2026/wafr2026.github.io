@@ -4,7 +4,7 @@ title: "Registration"
 permalink: "/registration"
 ---
 
-Online registration will be open until June 17 (lat day of conference).
+Online registration will be open until June 17 (last day of conference).
 Registration fees:
 - early registration (by May 31 A.O.E.): $XXX regular and $XXX for students,
 - late registration (from June 31 A.O.E.): $XXX regular and $XXX for students.
