@@ -2,6 +2,9 @@
 title: 17th International Workshop on the Algorithmic Foundations of Robotics
 --- -->
 
+<style> h1 {color: darkblue;}</style>
+<style> h2 {color: darkblue;}</style>
+
 # 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR)
 
 <p align="center">
@@ -10,14 +13,14 @@ title: 17th International Workshop on the Algorithmic Foundations of Robotics
 
 The 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR) will be held on June 15 to June 17, 2026 in Oulu, Finland.
 
-<h1 style="color: darkblue;">Important dates</h1>
+## Important dates
 
 - Paper submission deadline: January 15, 2026
 - Notification of acceptance: March 15, 2026
 - Preliminary paper deadline: May 15, 2026
 - Conference attendance: June 15-17, 2026
 
-<h1 style="color: darkblue;">Call for papers</h1>
+## Call for papers
 
 The Workshop on the Algorithmic Foundations of Robotics (WAFR) is a biannual multi-disciplinary single-track conference of international researchers presenting the latest advances on algorithmic problems in robotics.
 Since its inception in 1994, WAFR has established a reputation as a premier venue for presenting algorithmic work related to robotics.
@@ -52,7 +55,7 @@ In addition to these topics, we also encourage papers on applications of robot a
 
 The conference proceedings will be published in the [Springer Proceedings in Advanced Robotics (SPAR)](https://www.springer.com/series/15556) series and selected papers will be invited for publication in special issues of relevant journals.
 
-<h1 style="color: darkblue;">Past editions of WAFR</h1>
+## Past editions of WAFR
 
 - [2024, Chicago, USA](https://www.algorithmic-robotics.org/authors.php)
 - [2022, College Park, USA](https://wafr2022.github.io/)
@@ -71,6 +74,6 @@ The conference proceedings will be published in the [Springer Proceedings in Adv
 - [1996, Toulouse, France](https://parasollab.web.illinois.edu/events/wafr/wafr1996/)
 - 1994, Stanford, USA
 
-<h1 style="color: darkblue;">Contacts</h1>
+## Contacts
 
 - E-mail: <a href="mailto:wafr2026@gmail.com">wafr2026@gmail.com</a>

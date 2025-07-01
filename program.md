@@ -4,6 +4,10 @@ title: "Tentative program"
 permalink: "/program"
 ---
 
+<style> h1 {color: darkblue;}</style>
+<style> h2 {color: darkblue;}</style>
+<style> h3 {color: darkblue;}</style>
+
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <tr>
     <th style="width: 20%;">Time</th>
@@ -43,16 +47,16 @@ permalink: "/program"
 </table>
 
 
-<h2 style="color: darkblue;">Keynote speakers</h2>
+## Keynote speakers
 
-<h3 style="color: darkblue;">Keynote I</h3>
-
-TBD
-
-<h3 style="color: darkblue;">Keynote II</h3>
+### Keynote I
 
 TBD
 
-<h3 style="color: darkblue;">Keynote III</h3>
+### Keynote II
+
+TBD
+
+### Keynote III
 
 TBD
