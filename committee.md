@@ -4,7 +4,7 @@ title: "Committee"
 permalink: "/committee"
 ---
 
-# Co-chairs
+<h2 style="color: darkblue;">Co-chairs</h2>
 
 - [Stéphane Caron](https://scaron.info), INRIA Paris, France
 - [Steven M. LaValle](https://lavalle.pl), University of Oulu, Finland
@@ -12,6 +12,6 @@ permalink: "/committee"
 - [Bașak Sakçak](https://www.maastrichtuniversity.nl/b-s-sakçak), Maastricht University, Netherlands
 - [Oren Salzman](https://orensalzman.com), Technion University, Israel
 
-# Program committee
+<h2 style="color: darkblue;">Program committee</h2>
 
 TBD

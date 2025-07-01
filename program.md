@@ -42,11 +42,17 @@ permalink: "/program"
   <tr><td>15:30-17:00</td><td>Session XII: Session title and speakers</td></tr>
 </table>
 
-# Keynote speakers
 
-### Keynote I
+<h2 style="color: darkblue;">Keynote speakers</h2>
 
-### Keynote II
+<h3 style="color: darkblue;">Keynote I</h3>
 
-### Keynote III
+TBD
 
+<h3 style="color: darkblue;">Keynote II</h3>
+
+TBD
+
+<h3 style="color: darkblue;">Keynote III</h3>
+
+TBD
