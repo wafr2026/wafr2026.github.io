@@ -8,7 +8,7 @@ title: 17th International Workshop on the Algorithmic Foundations of Robotics
 # 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR)
 
 <p align="center">
-<img src="figures/statue.jpg" alt="drawing"/>
+<img src="figures/statue_with_wafr_stamp.jpg" alt="drawing"/>
 </p>
 
 The 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR) will be held on June 15 to June 17, 2026 in Oulu, Finland.
@@ -25,33 +25,15 @@ The 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR
 The Workshop on the Algorithmic Foundations of Robotics (WAFR) is a biannual multi-disciplinary single-track conference of international researchers presenting the latest advances on algorithmic problems in robotics.
 Since its inception in 1994, WAFR has established a reputation as a premier venue for presenting algorithmic work related to robotics.
 
-The focus of WAFR is on the design and analysis of robot algorithms from both theoretical and practical angles.
-These algorithms process inputs from noisy sensors, build geometric and physical models of the world, plan high-level and low-level actions at different time horizons, and execute these actions on actuators with limited precision.
-The design and analysis of robot algorithms raise a unique combination of questions from many fields, including but not limited to:
-- Algorithmic approaches to human-robot interaction
-- Computational geometry and topology
-- Control theory and optimization
-- Distributed and parallel methods
-- Decision theory and game theory
-- Geometrical and physical modeling
-- Machine learning (including supervised and unsupervised learning, reinforcement learning, representation learning, and imitation learning)
-- Planning and reasoning under uncertainty
-- Probabilistic and sampling-based algorithms
-- Sensing and perception
-- Task and motion planning
-- Theoretical computer science
+The focus of WAFR is on the design and analysis of robot algorithms, from both theoretical and practical angles.
+This focus gives rise to challenging research questions that span many areas of robotics and intersect with neighboring disciplines.
 
-In addition to these topics, we also encourage papers on applications of robot algorithms to important or new domains, including those beyond the traditional scope of robotics, such as:
-- Assistive and service robotics
-- Brain-controlled robots
-- Computational biology
-- Computer animation, graphics and animation, VR/AR
-- Legged locomotion
-- Manufacturing and automation
-- Multi-agent systems
-- Sensor networks and IoT devices
-- Surgical robots, intelligent prosthetics, rehabilitation robots
-- Transportation networks and systems
+We welcome contributions from all subfields of robotics involving algorithmic innovation, including (but not limited to): motion planning, sensing, perception, human-robot interaction, robot learning, locomotion, and manipulation.
+
+We also encourage submissions that draw from neighboring fields such as computational geometry and topology, control theory and optimization, decision theory and game theory, artificial intelligence, computational complexity, and distributed or parallel algorithms.
+
+Finally, we invite papers that explore the application of robotic algorithms in new or impactful domains, even beyond the traditional scope of robotics.
+Examples include computational biology, computer animation, transportation systems, manufacturing and automation, multi-agent systems, sensor networks and IoT devices, and intelligent prosthetics.
 
 The conference proceedings will be published in the [Springer Proceedings in Advanced Robotics (SPAR)](https://www.springer.com/series/15556) series and selected papers will be invited for publication in special issues of relevant journals.
 
