@@ -30,10 +30,10 @@ This focus gives rise to challenging research questions that span many areas of 
 
 We welcome contributions from all subfields of robotics involving algorithmic innovation, including (but not limited to): motion planning, sensing, perception, human-robot interaction, robot learning, locomotion, and manipulation.
 
-We also encourage submissions that draw from neighboring fields such as computational geometry and topology, control theory and optimization, decision theory and game theory, artificial intelligence, computational complexity, and distributed or parallel algorithms.
+We also encourage submissions that draw from neighboring fields such as computational geometry, computational topology, control theory, numerical optimization, decision theory, game theory, artificial intelligence, theory of computation, distributed and parallel algorithms.
 
 Finally, we invite papers that explore the application of robotic algorithms in new or impactful domains, even beyond the traditional scope of robotics.
-Examples include computational biology, computer animation, transportation systems, manufacturing and automation, multi-agent systems, sensor networks and IoT devices, and intelligent prosthetics.
+Examples include computational biology, computer animation, transportation systems, manufacturing, multi-agent systems, sensor networks, IoT devices, and intelligent prosthetics.
 
 The conference proceedings will be published in the [Springer Proceedings in Advanced Robotics (SPAR)](https://www.springer.com/series/15556) series and selected papers will be invited for publication in special issues of relevant journals.
 
