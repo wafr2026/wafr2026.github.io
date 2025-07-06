@@ -7,7 +7,7 @@ permalink: "/registration"
 <style> h1 {color: darkblue;}</style>
 <style> h2 {color: darkblue;}</style>
 
-Online registration will be open until June 17 (last day of conference).
+Online registration will be open until June 17 (last day of symposium).
 Registration fees:
 - early registration (by May 31 A.O.E.): $XXX regular and $XXX for students,
 - late registration (from June 31 A.O.E.): $XXX regular and $XXX for students.

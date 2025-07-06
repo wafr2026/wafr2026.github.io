@@ -13,7 +13,7 @@ Papers must be submitted in Portable Document Format (PDF) at our Submission Sit
 - Paper submission: January 15, 2026
 - Notification of acceptance: March 15, 2026
 - Updated paper submission: May 15, 2026
-- Camera-ready paper submission (after conference): July 17, 2026
+- Camera-ready paper submission (after symposium): July 17, 2026
 
 ## Manuscript preparation
 
@@ -28,7 +28,7 @@ WAFR submissions are single blind (authors are listed on the manuscript) and the
 
 ## Supplementary material
 
-In the submissions before the conference, you can submit supplementary material together with the main manuscript in a separate PDF or ZIP file (50MB max file size).
+In the submissions before the symposium, you can submit supplementary material together with the main manuscript in a separate PDF or ZIP file (50MB max file size).
 Please note that the program committee members are not required to check the supplementary material when preparing their reviews and we encourage you to make sure your paper is self-contained.
 No supplementary material will be included in the book.
 

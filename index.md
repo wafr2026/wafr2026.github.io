@@ -1,41 +1,42 @@
 <!-- ---
-title: 17th International Workshop on the Algorithmic Foundations of Robotics
+title: 17th World Symposium on the Algorithmic Foundations of Robotics
 --- -->
 
 <style> h1 {color: darkblue;}</style>
 <style> h2 {color: darkblue;}</style>
 
-# 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR)
+# 17th World Symposium on the Algorithmic Foundations of Robotics (WAFR)
 
 <p align="center">
 <img src="figures/statue_with_wafr_stamp.jpg" alt="drawing"/>
 </p>
 
-The 17th International Workshop on the Algorithmic Foundations of Robotics (WAFR) will be held on June 15 to June 17, 2026 in Oulu, Finland.
+The 17th World Symposium on the Algorithmic Foundations of Robotics (WAFR) will be held on June 15 to June 17, 2026 in Oulu, Finland.
 
 # Important dates
 
 - Paper submission deadline: January 15, 2026
 - Notification of acceptance: March 15, 2026
 - Preliminary paper deadline: May 15, 2026
-- Conference attendance: June 15-17, 2026
+- Symposium attendance: June 15-17, 2026
 
 # Call for papers
 
-The Workshop on the Algorithmic Foundations of Robotics (WAFR) is a biannual multi-disciplinary single-track conference of international researchers presenting the latest advances on algorithmic problems in robotics.
-Since its inception in 1994, WAFR has established a reputation as a premier venue for presenting algorithmic work related to robotics.
+The World Symposium on the Algorithmic Foundations of Robotics (WAFR), previously called International Workshop, is a biennial single-track multidisciplinary symposium of international researchers presenting the latest advances on algorithmic problems in robotics.
+Since its inception in 1994, WAFR has established itself as a premier venue for algorithmic and mathematical work related to robotics.
 
-The focus of WAFR is on the design and analysis of robot algorithms, from both theoretical and practical angles.
+WAFR focuses on the design and analysis of robotic algorithms from both theoretical and practical perspectives, as well as on the mathematical foundations of the field.
 This focus gives rise to challenging research questions that span many areas of robotics and intersect with neighboring disciplines.
 
-We welcome contributions from all subfields of robotics involving algorithmic innovation, including (but not limited to): motion planning, sensing, perception, human-robot interaction, robot learning, locomotion, and manipulation.
+We welcome contributions from all areas of robotics that involve algorithmic innovation, including (but not limited to): motion planning, sensing, perception, human-robot interaction, robot learning, kinematics, dynamics, locomotion, and manipulation.
 
-We also encourage submissions that draw from neighboring fields such as computational geometry, computational topology, control theory, numerical optimization, decision theory, game theory, artificial intelligence, theory of computation, distributed and parallel algorithms.
+We encourage submissions that draw from neighboring fields such as computational geometry, computational topology, control theory, numerical optimization, game theory, artificial intelligence, complexity theory, distributed algorithms, and parallel algorithms.
+We also welcome theoretical work that, even if not directly algorithmic, opens pathways for future algorithmic developments.
 
 Finally, we invite papers that explore the application of robotic algorithms in new or impactful domains, even beyond the traditional scope of robotics.
 Examples include computational biology, computer animation, transportation systems, manufacturing, multi-agent systems, sensor networks, IoT devices, and intelligent prosthetics.
 
-The conference proceedings will be published in the [Springer Proceedings in Advanced Robotics (SPAR)](https://www.springer.com/series/15556) series and selected papers will be invited for publication in special issues of relevant journals.
+The symposium proceedings will be published in the [Springer Proceedings in Advanced Robotics (SPAR)](https://www.springer.com/series/15556) series and selected papers will be invited for publication in special issues of relevant journals.
 
 # Past editions of WAFR
 

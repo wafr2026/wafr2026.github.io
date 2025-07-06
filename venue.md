@@ -7,7 +7,7 @@ permalink: "/venue"
 <style> h1 {color: darkblue;}</style>
 <style> h2 {color: darkblue;}</style>
 
-The conference will take place at [Ravintola Nallikari](http://ravintolanallikari.fi/) ([Nallikarinranta 15, 90510 Oulu, Finland](
+The symposium will take place at [Ravintola Nallikari](http://ravintolanallikari.fi/) ([Nallikarinranta 15, 90510 Oulu, Finland](
 https://maps.app.goo.gl/eqSEQHTdCogn9D5J7)).
 A beautiful beachfront venue surrounded by forested nature trails, just 3 km from the city center.
 An ideal setting for relaxed strolls and deep technical discussions!
@@ -35,7 +35,7 @@ Alternatively, Oulu can be reached from Helsinki via train.
 
 ## Accommodation
 
-Accommodations are available right by the conference venue at the beach (see the options avaliable at [this link](https://nallikari.fi/en/accommodation/)).
+Accommodations are available right by the symposium venue at the beach (see the options avaliable at [this link](https://nallikari.fi/en/accommodation/)).
 Alternatively, we suggest the following hotels in the city center:
 - [Radisson Blu](https://www.radissonhotels.com/en-us/hotels/radisson-blu-oulu)
 - [Scandic](https://www.scandichotels.com/en/hotels/scandic-oulu-city)
