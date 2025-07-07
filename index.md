@@ -2,8 +2,8 @@
 title: 17th World Symposium on the Algorithmic Foundations of Robotics
 --- -->
 
-<style> h1 {color: darkblue;}</style>
-<style> h2 {color: darkblue;}</style>
+<style> h1 {font-size: 2.5em; color: darkblue;}</style>
+<style> h2 {font-size: 2em; color: darkblue;}</style>
 
 # 17th World Symposium on the Algorithmic Foundations of Robotics (WAFR)
 
@@ -13,14 +13,14 @@ title: 17th World Symposium on the Algorithmic Foundations of Robotics
 
 The 17th World Symposium on the Algorithmic Foundations of Robotics (WAFR) will be held on June 15 to June 17, 2026 in Oulu, Finland.
 
-# Important dates
+## Important dates
 
 - Paper submission deadline: January 15, 2026
 - Notification of acceptance: March 15, 2026
 - Preliminary paper deadline: May 15, 2026
 - Symposium attendance: June 15-17, 2026
 
-# Call for papers
+## Call for papers
 
 The World Symposium on the Algorithmic Foundations of Robotics (WAFR), previously called International Workshop, is a biennial single-track multidisciplinary symposium of international researchers presenting the latest advances on algorithmic problems in robotics.
 Since its inception in 1994, WAFR has established itself as a premier venue for algorithmic and mathematical work related to robotics.
@@ -38,7 +38,7 @@ Examples include computational biology, computer animation, transportation syste
 
 The symposium proceedings will be published in the [Springer Proceedings in Advanced Robotics (SPAR)](https://www.springer.com/series/15556) series and selected papers will be invited for publication in special issues of relevant journals.
 
-# Past editions of WAFR
+## Past editions of WAFR
 
 - [2024, Chicago, USA](https://www.algorithmic-robotics.org/authors.php)
 - [2022, College Park, USA](https://wafr2022.github.io/)
@@ -57,6 +57,6 @@ The symposium proceedings will be published in the [Springer Proceedings in Adva
 - [1996, Toulouse, France](https://parasollab.web.illinois.edu/events/wafr/wafr1996/)
 - 1994, Stanford, USA
 
-# Contacts
+## Contacts
 
 - E-mail: <a href="mailto:wafr2026@gmail.com">wafr2026@gmail.com</a>
