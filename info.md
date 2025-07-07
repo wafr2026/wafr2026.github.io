@@ -37,11 +37,11 @@ No supplementary material will be included in the book.
 When submitting your manuscript, please use at least one of the following keywords:
 - Algorithmic Completeness and Complexity
 - Algorithms for Novel Robot Mechanisms and Sensors
-- Automation, Manufacturing & Logistics
+- Automation, Manufacturing, and Logistics
 - Collision Avoidance
 - Computational Biology
 - Computational Geometry
-- Computer Animation & Simulation
+- Computer Animation and Simulation
 - Control Theory and Optimization
 - Dynamics
 - Field Robotics
@@ -51,8 +51,9 @@ When submitting your manuscript, please use at least one of the following keywor
 - Localization and Mapping
 - Formal Methods
 - Machine Learning in Robotics
-- Manipulation & Grasping
-- Medical & Surgical Robots
+- Manipulation and Grasping
+- Mathematical Modeling and Analysis
+- Medical and Surgical Robots
 - Micro/Nano Robots
 - Mobile Robots
 - Motion and Path Planning
