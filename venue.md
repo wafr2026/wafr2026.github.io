@@ -6,6 +6,7 @@ permalink: "/venue"
 
 <style> h1 {color: darkblue;}</style>
 <style> h2 {color: darkblue;}</style>
+<style> h3 {color: darkblue;}</style>
 
 The symposium will take place at [Ravintola Nallikari](http://ravintolanallikari.fi/) ([Nallikarinranta 15, 90510 Oulu, Finland](
 https://maps.app.goo.gl/eqSEQHTdCogn9D5J7)).

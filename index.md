@@ -2,8 +2,8 @@
 title: 17th World Symposium on the Algorithmic Foundations of Robotics
 --- -->
 
-<style> h1 {font-size: 2.5em; color: darkblue;}</style>
-<style> h2 {font-size: 2em; color: darkblue;}</style>
+<style> h1 {color: darkblue;}</style>
+<style> h2 {color: darkblue;}</style>
 
 # 17th World Symposium on the Algorithmic Foundations of Robotics (WAFR)
 
