@@ -17,7 +17,7 @@ permalink: "/program"
   <tr><td>19:00-21:00</td><td>Informal meetup</td></tr>
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Monday, June 15</td></tr>
   <tr><td>8:45-9:00</td><td>Opening welcome</td></tr>
-  <tr><td>9:00-10:00</td><td>Session I</td></tr>
+  <tr><td>9:00-10:00</td><td>Session I: Session title and speakers</td></tr>
   <tr><td>10:00-10:30</td><td>Break</td></tr>
   <tr><td>10:30-11:30</td><td>Keynote I: Speaker Name ``Talk Title''</td></tr>
   <tr><td>11:30-12:30</td><td>Session II: Session title and speakers</td></tr>
