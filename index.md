@@ -32,6 +32,7 @@ We welcome contributions from all areas of robotics that involve algorithmic inn
 
 We encourage submissions that draw from neighboring fields such as computational geometry, computational topology, control theory, numerical optimization, game theory, artificial intelligence, complexity theory, distributed algorithms, and parallel algorithms.
 We also welcome theoretical work that, even if not directly algorithmic, opens pathways for future algorithmic developments.
+Examples are papers on topological and geometric characterizations of configuration spaces, or sensing and information spaces.
 
 Finally, we invite papers that explore the application of robotic algorithms in new or impactful domains, even beyond the traditional scope of robotics.
 Examples include computational biology, computer animation, transportation systems, manufacturing, multi-agent systems, sensor networks, IoT devices, and intelligent prosthetics.
