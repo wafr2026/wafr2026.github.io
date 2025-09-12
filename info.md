@@ -15,7 +15,7 @@ Papers must be submitted in Portable Document Format (PDF) at our Submission Sit
 - Updated paper submission: May 15, 2026
 - Camera-ready paper submission (after symposium): July 17, 2026
   
-[Paper Submission](https://easychair.org/conferences/?conf=wafr2026)
+<!-- [Paper Submission](https://easychair.org/conferences/?conf=wafr2026) -->
 
 ## Manuscript preparation
 
