@@ -9,11 +9,13 @@ permalink: "/info"
 
 ## Manuscript submission
 
-Papers must be submitted in Portable Document Format (PDF) at our Submission Site in OpenReview according to the following deadlines (UTC-12 or Anywhere on Earth):
+Papers must be submitted in Portable Document Format (PDF) at our Submission Site in EasyChair according to the following deadlines (UTC-12 or Anywhere on Earth):
 - Paper submission: January 15, 2026
 - Notification of acceptance: March 15, 2026
 - Updated paper submission: May 15, 2026
 - Camera-ready paper submission (after symposium): July 17, 2026
+  
+<!-- [Paper Submission](https://easychair.org/conferences/?conf=wafr2026) -->
 
 ## Manuscript preparation
 
