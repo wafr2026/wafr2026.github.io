@@ -41,7 +41,7 @@ The symposium proceedings will be published in the [Springer Proceedings in Adva
 
 ## Past editions of WAFR
 
-- [2024, Chicago, USA](https://www.algorithmic-robotics.org/authors.php)
+- [2024, Chicago, USA](https://parasollab.web.illinois.edu/events/wafr2024/cfp.php)
 - [2022, College Park, USA](https://wafr2022.github.io/)
 - [2020, virtual](http://robotics.cs.rutgers.edu/wafr2020/)
 - [2018, Mérida, México](https://parasollab.web.illinois.edu/events/wafr/wafr2018/)
