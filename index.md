@@ -8,7 +8,7 @@ title: 17th World Symposium on the Algorithmic Foundations of Robotics
 # 17th World Symposium on the Algorithmic Foundations of Robotics (WAFR)
 
 <p align="center">
-<img src="figures/statue_with_wafr_stamp.jpg" alt="drawing"/>
+<img src="figures/statue_with_wafr_stamp.jpg" alt="Oulu"/>
 </p>
 
 The 17th World Symposium on the Algorithmic Foundations of Robotics (WAFR) will be held on June 15 to June 17, 2026 in Oulu, Finland.

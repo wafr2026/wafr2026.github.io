@@ -20,7 +20,7 @@ permalink: "/program"
   <tr><td>8:45-9:00</td><td>Opening welcome</td></tr>
   <tr><td>9:00-10:00</td><td>Session I: Session title and speakers</td></tr>
   <tr><td>10:00-10:30</td><td>Break</td></tr>
-  <tr><td>10:30-11:30</td><td>Keynote I: <a href="https://www.cs.cmu.edu/~lblum/">Lenore Blum</a></td></tr>
+  <tr><td>10:30-11:30</td><td>Keynote talk by <a href="https://www.cs.cmu.edu/~lblum/">Lenore Blum</a>: <br><i>AI Consciousness is Inevitable: A Theoretical Computer Science Perspective</i></td></tr>
   <tr><td>11:30-12:30</td><td>Session II: Session title and speakers</td></tr>
   <tr><td>12:30-13:30</td><td>Lunch</td></tr>
   <tr><td>13:30-15:00</td><td>Session III: Session title and speakers</td></tr>
@@ -30,7 +30,7 @@ permalink: "/program"
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Tuesday, June 16</td></tr>
   <tr><td>9:00-10:00</td><td>Session V: Session title and speakers</td></tr>
   <tr><td>10:00-10:30</td><td>Break</td></tr>
-  <tr><td>10:30-11:30</td><td>Keynote II: <a href="https://idm-lab.org">Sven Koenig</a></td></tr>
+  <tr><td>10:30-11:30</td><td>Keynote talk by <a href="https://idm-lab.org">Sven Koenig</a></td></tr>
   <tr><td>11:30-12:30</td><td>Session on open problems in robotics</td></tr>
   <tr><td>12:30-13:30</td><td>Lunch</td></tr>
   <tr><td>13:30-15:00</td><td>Session VI: Session title and speakers</td></tr>
@@ -39,7 +39,7 @@ permalink: "/program"
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Wednesday, June 17</td></tr>
   <tr><td>9:00-10:00</td><td>Session VIII: Session title and speakers</td></tr>
   <tr><td>10:00-10:30</td><td>Break</td></tr>
-  <tr><td>10:30-11:30</td><td>Keynote III: <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a></td></tr>
+  <tr><td>10:30-11:30</td><td>Keynote talk by <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a></td></tr>
   <tr><td>11:30-12:30</td><td>Session IX: Session title and speakers</td></tr>
   <tr><td>12:30-13:30</td><td>Lunch</td></tr>
   <tr><td>13:30-15:00</td><td>Session X: Session title and speakers</td></tr>
@@ -52,8 +52,12 @@ permalink: "/program"
 
 ### <a href="https://www.cs.cmu.edu/~lblum/">Lenore Blum</a>
 
+<p align="center">
+<img src="figures/blum.jpg" alt="Lenore Blum"/>
+</p>
+
 **Title:**
-AI Consciousness is Inevitable: A Theoretical Computer Science Perspective
+*AI Consciousness is Inevitable: A Theoretical Computer Science Perspective*
 
 **Abstract:**
 We look at consciousness through the lens of Theoretical Computer Science, a branch of mathematics that studies computation under resource limitations, distinguishing functions that are efficiently computable from those that are not.

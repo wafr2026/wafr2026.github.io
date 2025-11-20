@@ -14,7 +14,7 @@ A beautiful beachfront venue surrounded by forested nature trails, just 3 km fro
 An ideal setting for relaxed strolls and deep technical discussions!
 
 <p align="center">
-<img src="figures/venue.jpg" alt="drawing"/>
+<img src="figures/venue.jpg" alt="Venue"/>
 </p>
 
 ## Getting around in Oulu 
