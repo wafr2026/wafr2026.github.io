@@ -52,11 +52,23 @@ permalink: "/program"
 
 ### <a href="https://www.cs.cmu.edu/~lblum/">Lenore Blum</a>
 
-**Title:** TBD
+**Title:**
+AI Consciousness is Inevitable: A Theoretical Computer Science Perspective
 
-**Abstract:** TBD
+**Abstract:**
+We look at consciousness through the lens of Theoretical Computer Science, a branch of mathematics that studies computation under resource limitations, distinguishing functions that are efficiently computable from those that are not.
+From this perspective, we are developing a formal machine model for consciousness.
+We are inspired by Alan Turing’s simple yet powerful model of computation and Bernard Baars’ theater model of
+consciousness.
+Though extremely simple, the model (1) aligns at a high level with many of the major scientific theories of human and animal consciousness, (2) provides explanations at a high level for many phenomena associated with consciousness, (3) gives insight into how a machine can have subjective consciousness, and (4) is clearly buildable.
+This combination supports our claim that machine consciousness is not only plausible but inevitable.
+See: [https://arxiv.org/pdf/2403.17101](https://arxiv.org/pdf/2403.17101)
+This is joint work with Manuel Blum and Avrim Blum.
 
-**Bio:** TBD
+**Bio:**
+Lenore Blum (PhD, MIT; Distinguished Career Professor of Computer Science, Emerita, CMU) is a mathematician and theoretical computer scientist.
+She is a Fellow of the American Association for the Advancement of Science, the American Mathematical Society, the Association for Women in Mathematics, and the American Academy of Arts and Science.
+Lenore is the inaugural and current president of the international Association for Mathematical Consciousness Science (AMCS).
 
 ### <a href="https://idm-lab.org">Sven Koenig</a>
 
