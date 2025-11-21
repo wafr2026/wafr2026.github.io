@@ -9,7 +9,7 @@ permalink: "/info"
 
 ## Manuscript submission
 
-Papers must be submitted in Portable Document Format (PDF) at our [Submission Site in EasyChair](https://easychair.org/conferences/directory?a=35182622) according to the following deadlines (UTC-12 or Anywhere on Earth):
+Papers must be submitted in Portable Document Format (PDF) at our [Submission Site in EasyChair](https://easychair.org/conferences?conf=wafr2026) according to the following deadlines (UTC-12 or Anywhere on Earth):
 - Paper submission: January 15, 2026
 - Notification of acceptance: March 15, 2026
 - Updated paper submission: May 15, 2026
