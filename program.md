@@ -84,8 +84,14 @@ Lenore is the inaugural and current president of the international Association f
 
 ### <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a>
 
-**Title:** TBD
+**Title:**
+Towards Diverse Solvers
 
-**Abstract:** TBD
+**Abstract:**
+Optimization is a powerful tool across fields, including robot planning and control, but also underlying ML and RL.
+However, in certain cases we would like solvers to return a diversity of solutions rather than only a single optimal one -- e.g. to overcome or enumerate local optima or to guarantee a kind of completeness when combined with higher-level search.
+
+In this talk I will discuss approaches towards diverse solvers, including existing methods in optimization, MCMC, RL, and robotics, and novel ideas to combine them.
 
 **Bio:** TBD
+
