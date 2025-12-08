@@ -30,7 +30,7 @@ permalink: "/program"
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Tuesday, June 16</td></tr>
   <tr><td>9:00-10:00</td><td>Session V: Session title and speakers</td></tr>
   <tr><td>10:00-10:30</td><td>Break</td></tr>
-  <tr><td>10:30-11:30</td><td>Keynote talk by <a href="https://idm-lab.org">Sven Koenig</a></td></tr>
+  <tr><td>10:30-11:30</td><td>Keynote talk by <a href="https://idm-lab.org">Sven Koenig</a>: <br><i>Advances in Heuristic Search and Their Applications in Robotics</i></td></tr>
   <tr><td>11:30-12:30</td><td>Session on open problems in robotics</td></tr>
   <tr><td>12:30-13:30</td><td>Lunch</td></tr>
   <tr><td>13:30-15:00</td><td>Session VI: Session title and speakers</td></tr>
@@ -39,7 +39,7 @@ permalink: "/program"
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Wednesday, June 17</td></tr>
   <tr><td>9:00-10:00</td><td>Session VIII: Session title and speakers</td></tr>
   <tr><td>10:00-10:30</td><td>Break</td></tr>
-  <tr><td>10:30-11:30</td><td>Keynote talk by <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a></td></tr>
+  <tr><td>10:30-11:30</td><td>Keynote talk by <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a>: <br><i>Towards Diverse Solvers</i></td></tr>
   <tr><td>11:30-12:30</td><td>Session IX: Session title and speakers</td></tr>
   <tr><td>12:30-13:30</td><td>Lunch</td></tr>
   <tr><td>13:30-15:00</td><td>Session X: Session title and speakers</td></tr>
@@ -95,7 +95,7 @@ Sven Koenig is a fellow of IEEE, ACM, AAAI, and AAAS whose research focuses on A
 ### <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a>
 
 **Title:**
-Towards Diverse Solvers
+*Towards Diverse Solvers*
 
 **Abstract:**
 Optimization is a powerful tool across fields, including robot planning and control, but also underlying ML and RL.
