@@ -76,11 +76,21 @@ Lenore is the inaugural and current president of the international Association f
 
 ### <a href="https://idm-lab.org">Sven Koenig</a>
 
-**Title:** TBD
+<p align="center">
+<img src="figures/koenig.jpg" alt="Sven Koenig"/>
+</p>
 
-**Abstract:** TBD
+**Title:**
+*Advances in Heuristic Search and Their Applications in Robotics*
 
-**Bio:** TBD
+**Abstract:**
+AI researchers and others have made significant progress in heuristic search algorithms over the years, for example, in incremental search, any-angle search, hierarchical search, multi-objective search, and multi-agent pathfinding.
+In this talk, I will provide an overview of some of these approaches, both from my research group and others.
+Then, I will discuss whether machine learning has made heuristic search obsolete.
+Finally, I will explain how heuristic search approaches from train scheduling, turn-by-turn navigation for cars, video games, and other applications can be helpful to know about in mobile robotics.
+
+**Bio:**
+Sven Koenig is a fellow of IEEE, ACM, AAAI, and AAAS whose research focuses on AI decision-making techniques that enable single robots and multi-robot systems to act intelligently in real-time.
 
 ### <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a>
 
