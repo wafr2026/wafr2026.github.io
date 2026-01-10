@@ -10,10 +10,12 @@ permalink: "/info"
 ## Manuscript submission
 
 Papers must be submitted in Portable Document Format (PDF) at our [Submission Site in EasyChair](https://easychair.org/conferences?conf=wafr2026) according to the following deadlines (UTC-12 or Anywhere on Earth):
-- Paper submission: January 15, 2026
-- Notification of acceptance: March 15, 2026
+- Paper submission deadline: <span style="color: red; text-decoration: line-through;">January 15, 2026</span> February 1, 2026
+- Notification of acceptance: <span style="color: red; text-decoration: line-through;">March 15, 2026</span> April 1, 2026
 - Updated paper submission: May 15, 2026
 - Camera-ready paper submission (after symposium): July 17, 2026
+
+<span style="color: red;">Note that the submission deadline has been extended.</span>
 
 ## Manuscript preparation
 
