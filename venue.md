@@ -63,11 +63,11 @@ Alternatively, Oulu can be reached from Helsinki (or any other city in Finland) 
 Accommodation is available right by the symposium venue at the beach (see the options avaliable at [this link](https://nallikari.fi/en/accommodation/)).
 
 Alternatively, we suggest the following hotels in the city center:
-- [Radisson Blu](https://www.radissonhotels.com/en-us/hotels/radisson-blu-oulu)
+- [Radisson Blu](https://www.radissonhotels.com/en-us/hotels/radisson-blu-oulu) (use the code WAFR2026 to book your room here)
 - [Scandic](https://www.scandichotels.com/en/hotels/scandic-oulu-city)
 - [Lapland Hotels Oulu](https://www.laplandhotels.com/fi/hotellit-ja-kohteet/oulu/lapland-hotels-oulu)
   
 
-## Travel grants for students
+<!-- ## Travel grants for students
 
-TBD
+TBD -->
