@@ -67,8 +67,6 @@ Alternatively, we suggest the following hotels in the city center:
 - [Radisson Blu](https://www.radissonhotels.com/en-us/hotels/radisson-blu-oulu)
 - [Scandic](https://www.scandichotels.com/en/hotels/scandic-oulu-city)
 - [Lapland Hotels Oulu](https://www.laplandhotels.com/fi/hotellit-ja-kohteet/oulu/lapland-hotels-oulu)
-  
 
-<!-- ## Travel grants for students
-
-TBD -->
+Discount codes for selected hotels will be provided upon registration.
+If you wish to book your hotel in advance, please contact us and we will share the applicable codes.
