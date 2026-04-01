@@ -9,10 +9,12 @@ permalink: "/registration"
 
 Online registration will be open until June 17 (last day of symposium).
 Registration fees:
-- early registration (by May 31 A.O.E.): $XXX regular and $XXX for students,
-- late registration (from June 31 A.O.E.): $XXX regular and $XXX for students.
+- Early registration (by May 15): 475 euros regular and 275 euros for students.
+- Early registration with Arctic Circle excursion (by May 15): 575 euros regular and 375 euros for students. 
+- Late registration (from May 16): 575 euros regular and 375 euros for students.
+Because of limited availability, the excursion option is only offered to early registrants.
 
-Registration can be completed through this [link]().
+Registration can be completed through this [link](https://www.lyyti.fi/reg/WAFR_2026__REGISTRATION_6434).
 Online payment using a credit card is required immediately upon completion of the online registration process.
 The registration fee includes attendance to program sessions, meeting materials, lunches, refreshment breaks, and the banquet dinner.
 
