@@ -12,6 +12,7 @@ Registration fees:
 - Early registration (by May 15): 475 euros regular and 275 euros for students.
 - Early registration with Arctic Circle excursion (by May 15): 575 euros regular and 375 euros for students. 
 - Late registration (from May 16): 575 euros regular and 375 euros for students.  
+
 Because of limited capacity, the excursion option is only offered to early registrants.
 
 Registration can be completed through this [link](https://www.lyyti.fi/reg/WAFR_2026__REGISTRATION_6434).
