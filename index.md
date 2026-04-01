@@ -19,7 +19,7 @@ Symposium participants are also invited to join a day trip to the Arctic Circle 
 - Paper submission deadline: <span style="color: red; text-decoration: line-through;">January 15, 2026</span> February 1, 2026 (Anywhere on Earth)
 - Notification of acceptance: <span style="color: red; text-decoration: line-through;">March 15, 2026</span> April 1, 2026
 - Preliminary paper deadline: May 15, 2026
-- Day trip to Arctic Circle: June 14, 2026
+- Excursion to Arctic Circle: June 14, 2026
 - Symposium attendance: June 15-17, 2026
 
 <span style="color: red;">Note that the submission deadline has been extended.</span>
