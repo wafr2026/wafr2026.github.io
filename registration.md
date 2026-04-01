@@ -28,8 +28,8 @@ Please send cancellation requests directly to wafr2026@gmail.com.
 Cancellation requests received until May 31 A.O.E. will be fully refunded, minus a processing fee of $25.
 There will be no refunds for requests received after May 31 A.O.E.
 
-## Note for students
+<!-- ## Note for students
 
 We encourage students who are applying for a travel grant to not register until they have heard back about their application.
 If they are not awarded a travel grant we will enable them to receive the early registration rate.
-Applicants whose grant was approved after paying the registration fee will be refunded.
+Applicants whose grant was approved after paying the registration fee will be refunded. -->
