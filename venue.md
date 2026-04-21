@@ -25,6 +25,8 @@ Oulu is Finland's most bicycle-friendly city and has an extensive network of cyc
 
 For short-term use, shared electric scooters and bicycles are widely available during summer and can be rented by the minute. You’re free to park them at your destination, as long as you follow local traffic rules. The two main operators are: [Lime](https://www.li.me/) and [Bird](https://www.bird.co/map/).
 
+We also have a special arrangement with the conference venue (Ravintola Nallikari), which will provide bikes to participants upon request. **The deadline for booking a bike is May 7, 2026.** Bikes can be booked by completing [this form](https://form.jotform.com/261091338328356).
+
 ### Busses  
 
 Oulu’s public transport system is based on buses and operated by the city. You can find up-to-date timetables and route information on the [Oulu Public Transportation website](https://www.osl.fi/en/). All busses accept contactless payment with bank cards. 
