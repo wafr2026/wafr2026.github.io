@@ -63,7 +63,8 @@ Alternatively, Oulu can be reached from Helsinki (or any other city in Finland) 
 ## Accommodation
 
 WAFR has secured blocks of rooms at the [symposium venue (Ravintola Nallikari)](https://nallikari.fi/en/accommodation/), and at the [Radisson Blu Hotel](https://www.radissonhotels.com/en-us/hotels/radisson-blu-oulu).
-Please contact us to receive the discount codes for these accommodations.
+**The deadline for these accommodations is May 18, 2026.**
+Please contact us to receive the applicable discount codes.
 
 Alternatively, we recommend the following hotels in the city center:
 - [Scandic](https://www.scandichotels.com/en/hotels/scandic-oulu-city)
