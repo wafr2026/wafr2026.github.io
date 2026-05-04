@@ -25,7 +25,7 @@ Oulu is Finland's most bicycle-friendly city and has an extensive network of cyc
 
 For short-term use, shared electric scooters and bicycles are widely available during summer and can be rented by the minute. You’re free to park them at your destination, as long as you follow local traffic rules. The two main operators are: [Lime](https://www.li.me/) and [Bird](https://www.bird.co/map/).
 
-We also have a special arrangement with the conference venue (Ravintola Nallikari), which will provide bikes to participants upon request. **The deadline for booking a bike is May 7, 2026.** Bikes can be booked by completing [this form](https://form.jotform.com/261091338328356).
+We also have a special arrangement with the conference venue (Ravintola Nallikari), which will provide bikes to participants upon request. **The deadline for booking a bike is May 18, 2026.** Bikes can be booked by completing [this form](https://form.jotform.com/261091338328356).
 
 ### Busses  
 
@@ -62,13 +62,9 @@ Alternatively, Oulu can be reached from Helsinki (or any other city in Finland) 
 
 ## Accommodation
 
-Accommodations are available right by the symposium venue (Ravintola Nallikari) at the beach.
-See the options avaliable at [this link](https://nallikari.fi/en/accommodation/).
+WAFR has secured blocks of rooms at the [symposium venue (Ravintola Nallikari)](https://nallikari.fi/en/accommodation/), and at the [Radisson Blu Hotel](https://www.radissonhotels.com/en-us/hotels/radisson-blu-oulu).
+Please contact us to receive the discount codes for these accommodations.
 
-Alternatively, we suggest the following hotels in the city center:
-- [Radisson Blu](https://www.radissonhotels.com/en-us/hotels/radisson-blu-oulu)
+Alternatively, we recommend the following hotels in the city center:
 - [Scandic](https://www.scandichotels.com/en/hotels/scandic-oulu-city)
 - [Lapland Hotels Oulu](https://www.laplandhotels.com/fi/hotellit-ja-kohteet/oulu/lapland-hotels-oulu)
-
-Discount codes for selected hotels will be provided upon registration.
-If you wish to book your hotel in advance, please contact us and we will share the applicable codes.
