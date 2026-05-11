@@ -26,7 +26,6 @@ permalink: "/program"
   <tr><td>13:30-15:00</td><td>Session III: Session title and speakers</td></tr>
   <tr><td>15:00-15:30</td><td>Break</td></tr>
   <tr><td>15:30-17:00</td><td>Session IV: Session title and speakers</td></tr>
-  <tr><td>17:30-19:30</td><td>Reception dinner</td></tr>
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Tuesday, June 16</td></tr>
   <tr><td>9:00-10:00</td><td>Session V: Session title and speakers</td></tr>
   <tr><td>10:00-10:30</td><td>Break</td></tr>
@@ -36,6 +35,7 @@ permalink: "/program"
   <tr><td>13:30-15:00</td><td>Session VI: Session title and speakers</td></tr>
   <tr><td>15:00-15:30</td><td>Break</td></tr>
   <tr><td>15:30-17:00</td><td>Session VII: Session title and speakers</td></tr>
+  <tr><td>17:30-19:30</td><td>Special dinner</td></tr>
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Wednesday, June 17</td></tr>
   <tr><td>9:00-10:00</td><td>Session VIII: Session title and speakers</td></tr>
   <tr><td>10:00-10:30</td><td>Break</td></tr>
