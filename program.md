@@ -14,8 +14,8 @@ permalink: "/program"
     <th>Event</th>
   </tr>
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Sunday, June 14</td></tr>
-  <tr><td>9:00-17:00</td><td>Day trip to Arctic Circle</td></tr>
-  <tr><td>19:00-21:00</td><td>Informal meetup</td></tr>
+  <tr><td>8:00-21:00</td><td>Day trip to Arctic Circle</td></tr>
+  <!-- <tr><td>19:00-21:00</td><td>Informal meetup</td></tr> -->
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Monday, June 15</td></tr>
   <tr><td>8:45-9:00</td><td>Opening welcome</td></tr>
   <tr><td>9:00-10:00</td><td>Session I: Session title and speakers</td></tr>
