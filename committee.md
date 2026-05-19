@@ -12,7 +12,7 @@ permalink: "/committee"
 - [Stéphane Caron](https://scaron.info), CNRS, France
 - [Steven M. LaValle](https://lavalle.pl), University of Oulu, Finland
 - [Tobia Marcucci](https://tobiamarcucci.github.io), University of California, Santa Barbara, USA
-- [Bașak Sakçak](https://www.maastrichtuniversity.nl/b-s-sakçak), Maastricht University, Netherlands
+- [Başak Sakçak](https://www.maastrichtuniversity.nl/b-s-sakçak), Maastricht University, Netherlands
 - [Oren Salzman](https://orensalzman.com), Technion University, Israel
 
 ## Program committee

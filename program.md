@@ -53,7 +53,7 @@ permalink: "/program"
   <tr><td>13:00-14:00</td><td>Lunch</td></tr>
   <tr><td>14:00-15:30</td><td>Paper Session IX</td></tr><!--(5 papers)-->
   <tr><td>15:30-16:00</td><td>Break</td></tr>
-  <tr><td>16:00-17:1</td><td>Paper Session X</td></tr><!--(4 papers)-->
+  <tr><td>16:00-17:12</td><td>Paper Session X</td></tr><!--(4 papers)-->
   <tr><td>17:15-17:30</td><td>Closing</td></tr>
 </table>
 
