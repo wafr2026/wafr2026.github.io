@@ -28,7 +28,7 @@ permalink: "/program"
   <tr><td>14:00-15:30</td><td>Paper Session III</td></tr><!-- (5 papers)-->
   <tr><td>15:30-16:00</td><td>Break</td></tr>
   <tr><td>16:30-17:30</td><td>Paper Session IV</td></tr><!-- (5 papers)-->
-  <tr><td>19:00-20:30</td><td>The City of Oulu's Welcome Reception at <a href=https://www.ouka.fi/kaupungintalo> the City Hall</a></td></tr>
+  <tr><td>19:00-20:30</td><td>The City of Oulu's Welcome Reception at <a href="https://www.ouka.fi/kaupungintalo"> the City Hall</a></td></tr>
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Tuesday, June 16</td></tr>
   <tr><td>8:00-9:00</td><td>Breakfast</td></tr>
   <tr><td>9:00-10:12</td><td>Paper Session V</td></tr><!--(4 papers)-->
@@ -42,7 +42,7 @@ permalink: "/program"
   <tr><td>15:30-17:30</td><td>Birds of a Feather</td></tr>
   <!--<tr><td>15:00-15:30</td><td>Break</td></tr>
   <tr><td>15:30-17:00</td><td>Session VII: Session title and speakers</td></tr>-->
-  <tr><td>19:00-22:00</td><td>WAFR Dinner at <a href=https://maikkulankartano.fi/> Maikkula Mansion</a></td></tr>
+  <tr><td>19:00-22:00</td><td>WAFR Dinner at <a href="https://maikkulankartano.fi/"> Maikkula Mansion</a></td></tr>
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Wednesday, June 17</td></tr>
   <tr><td>8:00-9:00</td><td>Breakfast</td></tr>
   <tr><td>9:00-10:12</td><td>Paper Session VIII</td></tr><!--(4 papers)-->
@@ -53,7 +53,7 @@ permalink: "/program"
   <tr><td>13:00-14:00</td><td>Lunch</td></tr>
   <tr><td>14:00-15:30</td><td>Paper Session IX</td></tr><!--(5 papers)-->
   <tr><td>15:30-16:00</td><td>Break</td></tr>
-  <tr><td>16:00-17:12</td><td>Paper Session X</td></tr><!--(4 papers)-->
+  <tr><td>16:00-17:1</td><td>Paper Session X</td></tr><!--(4 papers)-->
   <tr><td>17:15-17:30</td><td>Closing</td></tr>
 </table>
 
