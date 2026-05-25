@@ -103,6 +103,10 @@ Sven Koenig is a fellow of IEEE, ACM, AAAI, and AAAS whose research focuses on A
 
 ### <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a>
 
+<p align="center">
+<img src="figures/marc.jpg" alt="Marc Toussaint"/>
+</p>
+
 **Title:**
 *Towards Diverse Solvers*
 
@@ -112,5 +116,7 @@ However, in certain cases we would like solvers to return a diversity of solutio
 
 In this talk I will discuss approaches towards diverse solvers, including existing methods in optimization, MCMC, RL, and robotics, and novel ideas to combine them.
 
-**Bio:** TBD
+**Bio:**
+Marc Toussaint is professor for Learning and Intelligent Systems at TU Berlin.
+His research is in the intersection of AI and robotics, in particular combining machine learning, optimization, and AI reasoning to tackle fundamental problems in robotics.
 
