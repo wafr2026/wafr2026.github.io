@@ -7,7 +7,7 @@ permalink: "/committee"
 <style> h1 {color: darkblue;}</style>
 <style> h2 {color: darkblue;}</style>
 
-## Co-chairs
+## Co-Chairs
 
 - [Stéphane Caron](https://scaron.info), CNRS, France
 - [Steven M. LaValle](https://lavalle.pl), University of Oulu, Finland
@@ -15,7 +15,11 @@ permalink: "/committee"
 - [Başak Sakçak](https://www.maastrichtuniversity.nl/b-s-sakçak), Maastricht University, Netherlands
 - [Oren Salzman](https://orensalzman.com), Technion University, Israel
 
-## Program committee
+## Local Arrangements Chair 
+
+- [Timo Ojala](https://www.oulu.fi/en/researchers/timo-ojala), University of Oulu, Finland
+
+## Program Committee
 
 - Ian Abraham, Yale University
 - Srinivas Akella, University of North Carolina at Charlotte
