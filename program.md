@@ -42,7 +42,7 @@ permalink: "/program"
   <tr><td>15:30-17:30</td><td><a href="/bof/">Birds of a Feather</a></td></tr>
   <!--<tr><td>15:00-15:30</td><td>Break</td></tr>
   <tr><td>15:30-17:00</td><td>Session VII: Session title and speakers</td></tr>-->
-  <tr><td>19:00-22:00</td><td>WAFR Dinner at <a href="https://maikkulankartano.fi/"> Maikkula Mansion</a></td></tr>
+  <tr><td>19:00-22:00</td><td>Dinner at <a href="https://maikkulankartano.fi/"> Maikkula Mansion</a></td></tr>
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Wednesday, June 17</td></tr>
   <tr><td>8:00-9:00</td><td>Breakfast</td></tr>
   <tr><td>9:00-10:12</td><td><a href="/s8/">Paper Session VIII</a></td></tr><!--(4 papers)-->

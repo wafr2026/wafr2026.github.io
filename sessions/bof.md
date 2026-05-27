@@ -12,7 +12,7 @@ permalink: /bof/
 <img src="/figures/metso.jpg" alt="Metso">
 </p>
 
-This "session" involves WAFR attendees coalescing into small groups to debate or discuss the issues that they care about most.
+Inspired by the homonymous session organized by Ken Goldberg at WAFR 2002, this "session" involves attendees coalescing into small groups to debate or discuss the issues they care about most.
 Examples:
 - Is there any role for pure theory in robotics?
 - Does learning replace, or complement, planning?  

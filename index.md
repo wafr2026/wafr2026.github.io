@@ -56,7 +56,7 @@ The symposium proceedings will be published in the [Springer Proceedings in Adva
 - [2008, Guanajuato, México](https://parasollab.web.illinois.edu/events/wafr/wafr2008/)
 - [2006, New York City, USA](https://parasollab.web.illinois.edu/events/wafr/wafr2006/)
 - [2004, Zeist, The Netherlands](https://parasollab.web.illinois.edu/events/wafr/wafr2004)
-- [2002, Nice, France](https://parasollab.web.illinois.edu/events/wafr/wafr2002/)
+- [2002, Nice, France](https://goldberg.berkeley.edu/wafr/)
 - [2000, Hanover, USA](https://parasollab.web.illinois.edu/events/wafr/wafr2000/)
 - [1998, Houston, USA](https://parasollab.web.illinois.edu/events/wafr/wafr1998/)
 - [1996, Toulouse, France](https://parasollab.web.illinois.edu/events/wafr/wafr1996/)
