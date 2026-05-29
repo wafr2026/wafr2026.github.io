@@ -25,8 +25,8 @@ Letters of invitation for visa applications will be available to registered part
 ## Cancellation policy
 
 Please send cancellation requests directly to wafr2026@gmail.com.
-Cancellation requests received until May 31 A.O.E. will be fully refunded, minus a processing fee of $25.
-There will be no refunds for requests received after May 31 A.O.E.
+Cancellation requests received until May 15 A.O.E. will be fully refunded.
+There will be no refunds for requests received after May 15 A.O.E.
 
 <!-- ## Note for students
 
