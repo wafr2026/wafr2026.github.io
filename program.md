@@ -1,12 +1,15 @@
 ---
 layout: page
-title: "Program Overview"
+title: "Program"
 permalink: "/program"
 ---
 
 <style> h1 {color: darkblue;}</style>
 <style> h2 {color: darkblue;}</style>
 <style> h3 {color: darkblue;}</style>
+
+Below is the program overview.
+A detailed list of all the paper sessions is available [here](/alls/).
 
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <tr>
