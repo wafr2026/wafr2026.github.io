@@ -9,7 +9,7 @@ permalink: /alls/
 #### Session I (Monday from 9:15 to 10:09):
 
 - Chengyuan Qian and Dylan A. Shell, [Extracting Synthetic Sensors: A Study in Gap Navigation](../papers/WAFR_2026_Final_27.pdf)
-- Chengyuan Qian and Dylan A. Shell, [Gap-based Navigation Reinterpreted in Spaces of Half-Tangents](../papers/WAFR_2026_Final_60.pdf)
+- Chengyuan Qian and Dylan A. Shell, [Gap-based Navigation Reinterpreted in Spaces of Half-Tangents](../papers/WAFR_2026_Final_60.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Final_Supplementary_60.pdf)
 - Michal Lazar and Noa Agmon, [Budget-Constrained Shortest Paths in Continuous Domains](../papers/WAFR_2026_Final_7.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Final_Supplementary_7.pdf)
 
 #### Session II (Monday from 11:45 to 12:57):
@@ -26,15 +26,15 @@ permalink: /alls/
 - Julian Rau, Jahir Argote-Gerald, Grace McFassel, Genki
 Miyauchi, Paul Trodden, and Roderich Gross, [Scalable Multi-Agent Maze Traversal With Local Communication](../papers/WAFR_2026_Final_59.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Final_Supplementary_59.pdf)
 - William Zhang, Tzvika Geft, Jingjin Yu, and Kostas Bekris, [Complete, Scalable, and Robust Prioritized Planning for Multi-Robot Ordered Storage and Retrieval at Maximum Capacity](../papers/WAFR_2026_Final_72.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Final_Supplementary_72.zip)
-- Alexandra Nilles, Henry Boekhoff, Heather Jin Hee Kim, Julian Prieto, Elizabeth Garner, and Kirstin Petersen, [Minimalist Algorithms for Shape-Changing Robots in Densely Packed Swarms](../papers/WAFR_2026_Final_67.pdf)
+- Alexandra Nilles, Henry Boekhoff, Heather Jin Hee Kim, Julian Prieto, Elizabeth Garner, and Kirstin Petersen, [Minimalist Algorithms for Shape-Changing Robots in Densely Packed Swarms](../papers/WAFR_2026_Final_67.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Supplementary_67.zip)
 
 #### Session IV (Monday from 16:30 to 17:30):
 
 - Zezhou Sun, Megha Venkatesam, Devin Balkcom, and Emily Whiting, [Mind the Gap: Flexibility Analysis of Interlocking Rigid Structures](../papers/WAFR_2026_Final_6.pdf)
 - Yuwei Wu, Yichen Zhao, Dexter Ong, and Vijay Kumar, [STAR-Filter: Efficient Convex Free-Space Approximation via Starshaped Set Filtering in Noisy Environments](../papers/WAFR_2026_Final_28.pdf)
 - Dror Livnat, Michael Moshe Bilevich, Michal Kleinbort, and Dan Halperin, [Manifold-Guided Motion Planning for Tight Assemblies](../papers/WAFR_2026_Final_35.pdf)
-- Hao Lu and Rahul Shome, [Optimal Knock-Pick Planning for Tightly Packed Tabletop Blocks With Parallel Grippers](../papers/WAFR_2026_Final_50.pdf)
-- Shijie Bao, Shizhe Zhao, and Zhongqiang Ren, [WAP: Wavefront Arithmetic Propagation Algorithm and Implementation for Motion Planning Among Dynamic Obstacles](../papers/WAFR_2026_Final_36.pdf)
+- Hao Lu and Rahul Shome, [Optimal Knock-Pick Planning for Tightly Packed Tabletop Blocks With Parallel Grippers](../papers/WAFR_2026_Final_50.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Supplementary_50.zip)
+- Shijie Bao, Shizhe Zhao, and Zhongqiang Ren, [WAP: Wavefront Arithmetic Propagation Algorithm and Implementation for Motion Planning Among Dynamic Obstacles](../papers/WAFR_2026_Final_36.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Supplementary_36.zip)
 
 #### Session V (Tuesday from 9:00 to 10:12):
 
@@ -45,7 +45,7 @@ Miyauchi, Paul Trodden, and Roderich Gross, [Scalable Multi-Agent Maze Traversal
 
 #### Session VI (Tuesday from 11:45 to 12:57):
 
-- Yimin Tang, Sven Koenig, and Erdem Bıyık, [Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing](../papers/WAFR_2026_Final_2.pdf)
+- Yimin Tang, Sven Koenig, and Erdem Bıyık, [Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing](../papers/WAFR_2026_Final_2.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Supplementary_2.zip)
 - Nikolaj Käfer, Ahmed Khalil, Edward Huynh, David Fridovich-Keil, and Efstathios Bakolas, [Game-Theoretic Autonomous Driving: A Graphs of Convex Sets Approach](../papers/WAFR_2026_Final_12.pdf)
 - Alex Bassot, Stefano Carpin, and Nicola Basilico, [Wm-SPLITOUR: a Min-Max Weighted Multi-TSP Algorithm for Robotic Patrolling](../papers/WAFR_2026_Final_17.pdf)
 - Hamzah Khan, Dong Ho Lee, Jingqi Li, Tianyu Qiu, Christian Ellis, Jesse Milzman, Wesley Suttle, and David Fridovich-Keil, [Efficiently Solving Mixed-Hierarchy Games with Quasi-Policy Approximations](../papers/WAFR_2026_Final_48.pdf)
@@ -75,7 +75,7 @@ Miyauchi, Paul Trodden, and Roderich Gross, [Scalable Multi-Agent Maze Traversal
 
 #### Session X (Wednesday from 16:00 to 17:12):
 
-- Eitan Bloch and Oren Salzman, [Offline Task Assistance Planning on a Graph – Theoretic and Algorithmic Foundations](../papers/WAFR_2026_Final_32.pdf)
+- Eitan Bloch and Oren Salzman, [Offline Task Assistance Planning on a Graph – Theoretic and Algorithmic Foundations](../papers/WAFR_2026_Final_32.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Supplementary_32.zip)
 - Adir Morgan, Kiril Solovey, and Oren Salzman [Scalable Inspection Planning via Flow-based Mixed Integer Linear Programming](../papers/WAFR_2026_Final_49.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Final_Supplementary_49.pdf)
 - Theotime Le Hellard, Franki Nguimatsia Tiofack, Quentin Le Lidec, and Justin Carpentier, [Accelerating Trajectory Optimization with Sobolev-Trained Diffusion Policies](../papers/WAFR_2026_Final_64.pdf)
 - Luis Marques and Dmitry Berenson, [Local Conformal Calibration of Dynamics Uncertainty from Semantic Images](../papers/WAFR_2026_Final_71.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Final_Supplementary_71.pdf)
