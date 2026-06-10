@@ -30,7 +30,7 @@ A detailed list of all the paper sessions is available [here](/alls/).
   <tr><td>13:00-14:00</td><td>Lunch</td></tr>
   <tr><td>14:00-15:30</td><td><a href="/s3/">Paper Session III</a></td></tr><!-- (5 papers)-->
   <tr><td>15:30-16:00</td><td>Break</td></tr>
-  <tr><td>16:30-17:30</td><td><a href="/s4/">Paper Session IV</a></td></tr><!-- (5 papers)-->
+  <tr><td>16:00-17:30</td><td><a href="/s4/">Paper Session IV</a></td></tr><!-- (5 papers)-->
   <tr><td>19:00-20:30</td><td>The City of Oulu's Welcome Reception at the <a href="https://www.ouka.fi/kaupungintalo">City Hall</a></td></tr>
   <tr><td colspan="2" style="text-align: center; font-weight: bold;">Tuesday, June 16</td></tr>
   <tr><td>8:00-9:00</td><td>Breakfast</td></tr>
