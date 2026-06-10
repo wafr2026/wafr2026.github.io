@@ -19,4 +19,12 @@ Examples:
 
 Rather than stay at the conference venue, participants are encouraged to meet in other places around Oulu.
 We will help with transportation, as needed.
-Suggested venues coming soon.
+
+
+Suggested venues are:
+- Kauppatorin Kahvilamakasiinit ([Aittatori 1 Aitta 1, 90100 Oulu](https://maps.app.goo.gl/KVx9aRPJJsqyS51C6)): A cafe/bar on the market square (tori) by the water, with plenty of outdoor seating (if weather permits).
+- Keltainen Aita ([Aittatori 25, 90100 Oulu](https://maps.app.goo.gl/Qtsb13PzGo6fQEtCA)): A bar/cafe on the market square (tori), with outdoor and indoor seating.
+- Pub Graali ([Saaristonkatu 5, 90100 Oulu](https://maps.app.goo.gl/F7ABSDhgAspRVMdK9)): A pub known for comfortable seating and quality beer selection.
+- Puistokahvila Makia ([Otto Karhin Puisto, 90100 Oulu](https://maps.app.goo.gl/Ya2zPt1G3pdqvhzX9)): A modern, stylish cafe with fancy desserts.
+- Stroll along island trails: Take a walk around the islands of the conference venue, using forest trails.  Ice cream and coffee are available from kiosks along the beach.  Following the coastal trails may be preferred, at first at least.
+
