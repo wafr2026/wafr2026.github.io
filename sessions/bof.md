@@ -27,4 +27,4 @@ Suggested venues are:
 - Pub Graali ([Saaristonkatu 5, 90100 Oulu](https://maps.app.goo.gl/LLUpPiSD2sSqyao5A)): A pub known for comfortable seating and quality beer selection.
 - Puistokahvila Makia ([Otto Karhin Puisto, 90100 Oulu](https://maps.app.goo.gl/Ya2zPt1G3pdqvhzX9)): A modern, stylish cafe with fancy desserts.
 - Stroll along [island trails](https://maps.app.goo.gl/PfG8xwVUZ6Fachzr8): Take a walk around the islands of the conference venue, using forest trails.  Ice cream and coffee are available from kiosks along the beach.  Following the coastal trails may be preferred, at first at least.
-
+- Those who enjoy discussions in livelier settings may also consider the amusement park [Suomen Tivoli](https://www.suomentivoli.fi/sijainti-ja-aukioloajat), conveniently located a [few hundred meters from the WAFR venue](https://maps.app.goo.gl/dTQsXVu9XC6iXrUb7 ).
