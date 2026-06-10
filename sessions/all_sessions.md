@@ -16,8 +16,8 @@ permalink: /alls/
 
 - Servet B. Bayraktar, Andreas Orthey, and Marc Toussaint, [Scale-Invariant Sampling in Multi-Arm Bandit Motion Planning for Object Extraction](../papers/WAFR_2026_Final_19.pdf)
 - Phone Thiha Kyaw and Jonathan Kelly, [Geometry-Aware Sampling-Based Motion Planning on Riemannian Manifolds](../papers/WAFR_2026_Final_20.pdf)
-- Savva Morozov, Tobia Marcucci, Bernhard Paus Graesdal, Alexandre Amice, Pablo Parrilo, and Russ Tedrake, [Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets](../papers/WAFR_2026_Final_23.pdf)
 - Emil F. Awad, Hannah Erickson, Alexander J. LaValle, Nicoletta Prencipe, Basak Sakcak, Kalle G. Timperi, and Steven M. LaValle, [Shortcutting Revisited: Improved Sampling and Irreplaceable Optimality](../papers/WAFR_2026_Final_66.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Final_Supplementary_66.pdf)
+- Savva Morozov, Tobia Marcucci, Bernhard Paus Graesdal, Alexandre Amice, Pablo Parrilo, and Russ Tedrake, [Mixed Discrete and Continuous Planning using Shortest Walks in Graphs of Convex Sets](../papers/WAFR_2026_Final_23.pdf)
 
 #### Session III (Monday from 14:00 to 15:30):
 
@@ -69,9 +69,9 @@ Miyauchi, Paul Trodden, and Roderich Gross, [Scalable Multi-Agent Maze Traversal
 
 - Ananya Yammanuru, Maria Lusardi, Nancy M. Amato, and Katherine Driggs-Campbell, [From Legible to Inscrutable Trajectories: (Il)legible Motion Planning Accounting for Multiple Observers](../papers/WAFR_2026_Final_58.pdf)
 - Elle Lazarski and Jaime Fisac, [Corrigible Assistance in One Round: Pragmatic–Pedagogic Best Response](../papers/WAFR_2026_Final_70.pdf)
-- Haimin Hu, [Permissive Safety Through Trusted Inference: Verifying Belief-Space Neural Safety Filters for Assured Interactive Robotics](../papers/WAFR_2026_Final_9.pdf)
 - Yupu Lu, Yuxiang Ma, and Jia Pan, [RichMap: A Reachability Map Balancing Precision, Efficiency, and Flexibility for Rich Robot Manipulation Tasks](../papers/WAFR_2026_Final_11.pdf)
 - Arno Verduyn, Erwin Aertbeliën, Maxim Vochten, and Joris De Schutter, [A Coordinate-Invariant Local Representation of Motion and Force Trajectories for Identification and Generalization Across Coordinate Systems](../papers/WAFR_2026_Final_21.pdf)
+- Haimin Hu, [Permissive Safety Through Trusted Inference: Verifying Belief-Space Neural Safety Filters for Assured Interactive Robotics](../papers/WAFR_2026_Final_9.pdf)
 
 #### Session X (Wednesday from 16:00 to 17:12):
 
