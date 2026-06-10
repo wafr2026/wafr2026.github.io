@@ -28,7 +28,7 @@ Miyauchi, Paul Trodden, and Roderich Gross, [Scalable Multi-Agent Maze Traversal
 - William Zhang, Tzvika Geft, Jingjin Yu, and Kostas Bekris, [Complete, Scalable, and Robust Prioritized Planning for Multi-Robot Ordered Storage and Retrieval at Maximum Capacity](../papers/WAFR_2026_Final_72.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Final_Supplementary_72.zip)
 - Alexandra Nilles, Henry Boekhoff, Heather Jin Hee Kim, Julian Prieto, Elizabeth Garner, and Kirstin Petersen, [Minimalist Algorithms for Shape-Changing Robots in Densely Packed Swarms](../papers/WAFR_2026_Final_67.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Supplementary_67.zip)
 
-#### Session IV (Monday from 16:30 to 17:30):
+#### Session IV (Monday from 16:00 to 17:30):
 
 - Zezhou Sun, Megha Venkatesam, Devin Balkcom, and Emily Whiting, [Mind the Gap: Flexibility Analysis of Interlocking Rigid Structures](../papers/WAFR_2026_Final_6.pdf)
 - Yuwei Wu, Yichen Zhao, Dexter Ong, and Vijay Kumar, [STAR-Filter: Efficient Convex Free-Space Approximation via Starshaped Set Filtering in Noisy Environments](../papers/WAFR_2026_Final_28.pdf)
