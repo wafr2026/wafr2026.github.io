@@ -49,7 +49,7 @@ Chair: Jason O'Kane
 - Da Kong and Vadim Indelman, [Open-loop POMDP Simplification and Safe Skipping of Replanning with Formal Performance Guarantees](../papers/WAFR_2026_Final_33.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Final_Supplementary_33.pdf)
 
 #### Session VI (Tuesday from 11:45 to 12:57):
-Chair: Jingjin Yu
+Chair: Alexandra Nilles
 
 - Yimin Tang, Sven Koenig, and Erdem Bıyık, [Judgelight: Trajectory-Level Post-Optimization for Multi-Agent Path Finding via Closed-Subwalk Collapsing](../papers/WAFR_2026_Final_2.pdf) [\[supplementary material\]](../supplementary/WAFR_2026_Supplementary_2.zip)
 - Nikolaj Käfer, Ahmed Khalil, Edward Huynh, David Fridovich-Keil, and Efstathios Bakolas, [Game-Theoretic Autonomous Driving: A Graphs of Convex Sets Approach](../papers/WAFR_2026_Final_12.pdf)
