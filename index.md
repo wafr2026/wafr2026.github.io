@@ -14,6 +14,14 @@ title: 17th World Symposium on the Algorithmic Foundations of Robotics
 The 17th World Symposium on the Algorithmic Foundations of Robotics (WAFR) will be held on June 15 to June 17, 2026 in Oulu, Finland.
 Symposium participants are also invited to join a [day trip to the Arctic Circle](/arctic/) on Sunday, June 14!
 
+## Open Problems
+
+The problems presented during the Open Problems Session have now been compiled and are available in written format.
+
+[Download the Open Problems PDF](./open_problems/WAFR_2026_Open_Problems.pdf). Supplementary slides are also available for the [Part Construction Problem](./open_problems/Part_Construction_Open_Problem_Slides.pdf) and the [POMDP Backward Matrix](./open_problems/POMDP_Backwards_Matrix_Open_Problem_Slides.pdf).
+
+Many thanks to Dan Halperin and Hannah Erickson for compiling and preparing the written version of the problems!
+
 ## Important dates
 
 - Paper submission deadline: <span style="color: red; text-decoration: line-through;">January 15, 2026</span> February 1, 2026 (Anywhere on Earth)
@@ -21,8 +29,9 @@ Symposium participants are also invited to join a [day trip to the Arctic Circle
 - Preliminary paper deadline: May 15, 2026
 - Excursion to Arctic Circle: June 14, 2026
 - Symposium attendance: June 15-17, 2026
+- **Camera ready version: July 17, 2026**
 
-<span style="color: red;">Note that the submission deadline has been extended.</span>
+<!--<span style="color: red;">Note that the submission deadline has been extended.</span>-->
 
 ## Call for papers
 

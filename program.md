@@ -52,7 +52,10 @@ A detailed list of all the paper sessions is available [here](/alls/).
   <tr><td>10:15-10:30</td><td>Break</td></tr>
   <tr><td>10:30-11:30</td><td>Keynote talk by <a href="https://www.user.tu-berlin.de/mtoussai/">Marc Toussaint</a>: <br><i>Towards Diverse Solvers</i></td></tr>
   <tr><td>11:30-11:45</td><td>Break</td></tr>
-  <tr><td>11:45-13:00</td><td>Session on Open Problems in Robotics</td></tr>
+  <tr><td>11:45-13:00</td><td>Session on Open Problems in Robotics <br><a href="./open_problems/WAFR_2026_Open_Problems.pdf">Open Problems</a><br>
+  <a href="./open_problems/POMDP_Backwards_Matrix_Open_Problem_Slides.pdf">POMDP Backwards Matrix Slides</a><br>
+  <a href="./open_problems/Part_Construction_Open_Problem_Slides.pdf">Part Construction Problem Slides</a>
+  </td></tr>
   <tr><td>13:00-14:00</td><td>Lunch</td></tr>
   <tr><td>14:00-15:30</td><td><a href="/s9/">Paper Session IX</a></td></tr><!--(5 papers)-->
   <tr><td>15:30-16:00</td><td>Break</td></tr>
