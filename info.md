@@ -13,7 +13,7 @@ Papers must be submitted in Portable Document Format (PDF) at our [Submission Si
 - Paper submission deadline: <span style="color: red; text-decoration: line-through;">January 15, 2026</span> February 1, 2026
 - Notification of acceptance: <span style="color: red; text-decoration: line-through;">March 15, 2026</span> April 1, 2026
 - Updated paper submission: May 15, 2026
-- Camera-ready paper submission (after symposium): July 17, 2026
+- Camera-ready paper submission (after symposium): August 3, 2026 (Further details will be provided)
 
 <span style="color: red;">Note that the submission deadline has been extended.</span>
 

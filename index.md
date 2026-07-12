@@ -29,7 +29,7 @@ Many thanks to Dan Halperin and Hannah Erickson for compiling and preparing the 
 - Preliminary paper deadline: May 15, 2026
 - Excursion to Arctic Circle: June 14, 2026
 - Symposium attendance: June 15-17, 2026
-- **Camera ready version: July 17, 2026**
+- **Camera ready version: August 3, 2026 (Further details will be provided)** 
 
 <!--<span style="color: red;">Note that the submission deadline has been extended.</span>-->
 
