@@ -50,7 +50,7 @@ Examples are papers on topological and geometric characterizations of configurat
 Finally, we invite papers that explore the application of robotic algorithms in new or impactful domains, even beyond the traditional scope of robotics.
 Examples include computational biology, computer animation, transportation systems, manufacturing, multi-agent systems, sensor networks, IoT devices, and intelligent prosthetics.
 
-The symposium proceedings will be published in the [Springer Proceedings in Advanced Robotics (SPAR)](https://www.springer.com/series/15556) series and selected papers will be invited for publication in special issues of relevant journals.
+The symposium proceedings will be published in the [Springer Proceedings in Advanced Robotics (SPAR)](https://link.springer.com/series/15556) series and selected papers will be invited for publication in special issues of relevant journals.
 
 ## Past editions of WAFR
 

@@ -19,13 +19,13 @@ Papers must be submitted in Portable Document Format (PDF) at our [Submission Si
 
 ## Manuscript preparation
 
-Manuscripts should be prepared using the Springer Proceedings in Advanced Robotics (SPAR) format.
-You can download the template files below:
-- [LaTex](https://resource-cms.springernature.com/springer-cms/rest/v1/content/26361882/data/v2) (preferred)
-- [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/26362274/data/v1)
+Manuscripts should be prepared using the [Springer Proceedings in Advanced Robotics (SPAR)](https://link.springer.com/series/15556) format.
+You can download the template files by following these links:
+- [LaTex](https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/26361882/data/v7) (preferred)
+- [Microsoft Word](https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27841328/data/v1)
 
 Submissions should not exceed 16 pages plus references in this format (references do not count towards this page limit).
-Additional details on the manuscript preparation can be found [here](https://resource-cms.springernature.com/springer-cms/rest/v1/content/26362278/data/v1).
+Additional details on the manuscript preparation can be found [here](https://www.springernature.com/gp/authors/publish-a-book/step-by-step-conference-proceedings).
 WAFR submissions are single blind (authors are listed on the manuscript) and there is no rebuttal phase.
 
 ## Supplementary material
