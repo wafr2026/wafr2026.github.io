@@ -16,6 +16,8 @@ Symposium participants are also invited to join a [day trip to the Arctic Circle
 
 ## Open Problems
 
+See the updated document with one of the problems now solved!
+
 The problems presented during the Open Problems Session have now been compiled and are available in written format.
 
 [Download the Open Problems PDF](./open_problems/WAFR_2026_Open_Problems.pdf). Supplementary slides are also available for the [Part Construction Problem](./open_problems/Part_Construction_Open_Problem_Slides.pdf) and the [POMDP Backward Matrix](./open_problems/POMDP_Backwards_Matrix_Open_Problem_Slides.pdf).
